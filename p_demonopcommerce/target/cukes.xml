@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="10.071" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="user could create new accounts" name="user creates new valid account" time="9.834">
+<system-out><![CDATA[
+Given user opens register page..............................................passed
+When user selects gender type...............................................passed
+And user enters first and last name.........................................passed
+And user selects date of birth..............................................passed
+And user enters the email...................................................passed
+And user enters company name................................................passed
+And user selects newsletter.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
